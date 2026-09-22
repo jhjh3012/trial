@@ -1,0 +1,10 @@
+name = "licence-card-editor"
+compatibility_date = "2026-09-14"
+pages_build_output_dir = "dist/public"
+
+# Replace this placeholder with the D1 database ID created for the project.
+[[d1_databases]]
+binding = "DB"
+database_name = "licence-card-editor"
+database_id = "89f4d309-0fbe-4f8e-9713-a1c69ac5dc46"
+migrations_dir = "migrations"

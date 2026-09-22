@@ -1,0 +1,1 @@
+export { onRequest } from "../../artifacts/licence-card-editor/functions/api/[[path]]";
